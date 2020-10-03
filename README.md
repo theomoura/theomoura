@@ -6,13 +6,13 @@
 ## I'm a Software Engineer and Agile Methodology enthusiast
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, etc.
-- 📚 I’m continuously learning about Frontend / Backend technologies and agile methodologies (Scrum). 🌱
+- 📚 I’m continuously learning about Frontend / Backend technologies and agile methodologies. 🌱
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: Love to watch movies and play games. 🎮
 ---
 <br/>
 
-<p align='center'>
+<p>
   <a href="https://www.linkedin.com/in/theo-moura-54a94a7b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -23,18 +23,18 @@
 
 <br/>
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-         height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=theomoura&layout=compact&hide=C%23"
     />
   </a>
+ <br/>
+ <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="160"
       src="https://github-readme-stats.vercel.app/api?username=theomoura&show_icons=true&custom_title=Github%20Status&hide=issues,contribs"
     />
   </a>
