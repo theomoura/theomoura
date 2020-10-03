@@ -27,14 +27,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-         height="150"
+         height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=theomoura&layout=compact&hide=C%23"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="150"
+      height="160"
       src="https://github-readme-stats.vercel.app/api?username=theomoura&show_icons=true&custom_title=Github%20Status&hide=issues,contribs"
     />
   </a>
