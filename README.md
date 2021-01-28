@@ -54,98 +54,98 @@
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"
+      src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg"
+      src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"
       width="40"
       height="40"
     />
   </a>
   <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
       width="40"
       height="40"
     />
   </a>
   <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
       width="40"
       height="40"
     />
   </a>
     <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
       width="40"
       height="40"
     />
